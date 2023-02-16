@@ -1,0 +1,15 @@
+C:\Users\leoca\ExMatrizes\bin\Debug\net7.0\ExMatrizes.exe
+C:\Users\leoca\ExMatrizes\bin\Debug\net7.0\ExMatrizes.deps.json
+C:\Users\leoca\ExMatrizes\bin\Debug\net7.0\ExMatrizes.runtimeconfig.json
+C:\Users\leoca\ExMatrizes\bin\Debug\net7.0\ExMatrizes.dll
+C:\Users\leoca\ExMatrizes\bin\Debug\net7.0\ExMatrizes.pdb
+C:\Users\leoca\ExMatrizes\obj\Debug\net7.0\ExMatrizes.csproj.AssemblyReference.cache
+C:\Users\leoca\ExMatrizes\obj\Debug\net7.0\ExMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoca\ExMatrizes\obj\Debug\net7.0\ExMatrizes.AssemblyInfoInputs.cache
+C:\Users\leoca\ExMatrizes\obj\Debug\net7.0\ExMatrizes.AssemblyInfo.cs
+C:\Users\leoca\ExMatrizes\obj\Debug\net7.0\ExMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\leoca\ExMatrizes\obj\Debug\net7.0\ExMatrizes.dll
+C:\Users\leoca\ExMatrizes\obj\Debug\net7.0\refint\ExMatrizes.dll
+C:\Users\leoca\ExMatrizes\obj\Debug\net7.0\ExMatrizes.pdb
+C:\Users\leoca\ExMatrizes\obj\Debug\net7.0\ExMatrizes.genruntimeconfig.cache
+C:\Users\leoca\ExMatrizes\obj\Debug\net7.0\ref\ExMatrizes.dll
